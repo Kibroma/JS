@@ -1,5 +1,0 @@
-JavaScript, иммитирующий нажатие кнопки "Назад" в браузере:
-
-<a href="javascript:history.go(-1)" mce_href="javascript:history.go(-1)">Назад</a>
-
-
